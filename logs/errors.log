@@ -1,0 +1,1 @@
+2026-11-11 17:51:04 [main] ERROR com.university.lab06.model.Article - Ошибка валидации: title не может быть null или пустым

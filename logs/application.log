@@ -1,0 +1,7 @@
+2026-11-11 17:17:42 [main] INFO  c.u.l.repository.ArticleRepository - Сохранение статьи: Название
+2026-11-11 17:28:04 [main] INFO  c.u.l.repository.ArticleRepository - Сохранение статьи: Название
+2026-11-11 17:28:04 [main] INFO  c.u.l.repository.ArticleRepository - Статья успешно сохранена: id=1, title=Название
+2026-11-11 17:51:04 [main] INFO  c.u.l.repository.ArticleRepository - Сохранение статьи: Название
+2026-11-11 17:51:04 [main] INFO  c.u.l.repository.ArticleRepository - Статья успешно сохранена: id=1, title=Название
+2026-11-11 17:51:04 [main] WARN  c.u.l.repository.ArticleRepository - Попытка получить статью с id 999
+2026-11-11 17:51:04 [main] ERROR com.university.lab06.model.Article - Ошибка валидации: title не может быть null или пустым
